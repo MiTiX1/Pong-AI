@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 3. Run
 ```sh
-streamlit run main.py
+python main.py
 ```
 
 ## How to play
